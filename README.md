@@ -2,7 +2,7 @@
 ## Introduction
 
 *Any work that uses the code and/or provided trained models must acknowledge the authors by including the following reference*
-> Talat Zehra; Sharjeel Anjum; Tahir Mahmood; Mahin Shams; Binish Arif Sultan; Zubair Ahmad, “Leiomyosarcoma Histopathology Dataset and Technique for Automatic Mitosis Recognition", Submitted in Pathology
+> Talat Zehra; Sharjeel Anjum; Tahir Mahmood; Mahin Shams; Binish Arif Sultan; Zubair Ahmad, and Dr. Shahzad Ahmed “Leiomyosarcoma Histopathology Dataset and Technique for Automatic Mitosis Recognition", Submitted in Pathology
 
 ## Dataset Availability
 
