@@ -6,7 +6,7 @@
 
 ## Dataset Availability
 
-The datasetbcan be accessed by sending an email to corresponding author (shahzad1@hanyang.ac.kr)
+The dataset can be accessed by sending an email to the corresponding author (shahzad1@hanyang.ac.kr)
 
 ## Results
 
