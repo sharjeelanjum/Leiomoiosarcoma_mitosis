@@ -1,6 +1,4 @@
 # Leiomyosarcoma Histopathology Dataset and Technique for Automatic Mitosis Recognition
-## Introduction
-
 
 ## Dataset Availability
 
