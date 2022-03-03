@@ -1,8 +1,6 @@
 # Leiomyosarcoma Histopathology Dataset and Technique for Automatic Mitosis Recognition
 ## Introduction
 
-*Any work that uses the code and/or provided trained models must acknowledge the authors by including the following reference*
-> Talat Zehra; Sharjeel Anjum; Tahir Mahmood; Mahin Shams; Binish Arif Sultan; Zubair Ahmad, and Dr. Shahzad Ahmed “Leiomyosarcoma Histopathology Dataset and Technique for Automatic Mitosis Recognition", Submitted in Pathology
 
 ## Dataset Availability
 
@@ -13,5 +11,4 @@ To perform inference, clone the repository and run the jupyter notebook (Inferen
 
 ## Results
 
-<img src="https://github.com/sharjeelanjum/Leiomoiosarcoma_mitosis/blob/main/testimage9.PNG" width="400" />
 <img src="https://github.com/sharjeelanjum/Leiomoiosarcoma_mitosis/blob/main/testimage3.PNG" width="400" />
