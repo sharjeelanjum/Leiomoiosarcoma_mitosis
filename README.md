@@ -1,4 +1,6 @@
 # Leiomyosarcoma Histopathology Dataset and Technique for Automatic Mitosis Recognition
+## Requirement 
+The required Opencv version is 4.5.5 and lower.
 
 ## Dataset Availability
 
