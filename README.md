@@ -3,7 +3,7 @@
 The required Opencv version is 4.5.5 and lower.
 ## Process 
 1. Extract the yolov4medi_best weights
-2. Add your test images, yolov4_medi.cfg, yolov4medi_best weights, and obj.names in none folder
+2. Add your test images, yolov4_medi.cfg, yolov4medi_best weights, and obj.names in one folder
 3. Run the provided inference.inpyb file to see the results.
 ## Dataset Availability
 
